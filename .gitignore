@@ -1,0 +1,7 @@
+*.pyc
+config.py
+debug.log
+logs/debug.log
+client_secrets.json
+credentials.json
+serviceaccount.json
